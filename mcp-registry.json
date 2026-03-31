@@ -4,7 +4,8 @@
     {
       "id": "atlassian-mcp",
       "name": "Atlassian MCP",
-      "endpoint": "https://mcp.atlassian.com",
+      "type": "http",
+      "url": "https://mcp.atlassian.com/v1/sse",
       "auth": {
         "type": "oauth2"
       }
