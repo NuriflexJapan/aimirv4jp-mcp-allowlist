@@ -1,9 +1,9 @@
 {
+  "version": "1",
   "servers": [
     {
       "id": "atlassian-mcp",
       "name": "Atlassian MCP",
-      "description": "Jira / Confluence integration",
       "endpoint": "https://mcp.atlassian.com",
       "auth": {
         "type": "oauth2"
